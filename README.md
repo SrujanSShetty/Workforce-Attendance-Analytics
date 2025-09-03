@@ -13,7 +13,7 @@ Using Power BI, organizational attendance, leave, and work-from-home patterns ar
 
 ## 📊 Dashboard Preview
 
-![Workforce Attendance Insights](attendance pbi.png)
+![Workforce Attendance Insights](./attendance%20pbi.png)
 
 ---
 
